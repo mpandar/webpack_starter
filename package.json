@@ -1,0 +1,9 @@
+{
+  "name": "webpack_starter",
+  "version": "0.1.0",
+  "description": "a webpack start project",
+  "main": "src/index.js",
+  "repository": "https://github.com/mpandar/webpack_starter.git",
+  "author": "ipanda <mshp_2007@126.com>",
+  "license": "MIT"
+}
