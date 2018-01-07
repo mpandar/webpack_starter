@@ -1,6 +1,7 @@
 /* main.css */
 body{
   background-color: deepskyblue;
+  display: flex;
 }
 .main {
   background-color: grey;
